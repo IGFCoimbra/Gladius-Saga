@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[3,3,1,0,1]},{"code":122,"indent":0,"parameters":[4,4,0,0,1]},{"code":312,"indent":0,"parameters":[0,1,0,0,10]},{"code":0,"indent":0,"parameters":[]}],"name":"p1 Ether up","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":111,"indent":0,"parameters":[0,4,0]},{"code":301,"indent":1,"parameters":[0,9,true,true]},{"code":601,"indent":1,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":602,"indent":1,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":603,"indent":1,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":604,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,2,1]},{"code":401,"indent":1,"parameters":["There is a time and place for everything"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Wolf's bait","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
